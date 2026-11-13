@@ -1,0 +1,8 @@
+{
+  "name": "Diprint Accounting",
+  "description": "Aplikasi Akuntansi Double-Entry & Cetak Nota Kasir Offline untuk Usaha Percetakan dan Dagang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
